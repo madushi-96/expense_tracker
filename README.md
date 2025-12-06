@@ -27,5 +27,8 @@ A Python Tkinter application to manage daily expenses with features such as:
 - data/expenses.csv → User stored data
 - images/ → Background images
 
+# Update from feature-login branch
+
 ## Author
 Madushi Sulakshana
+
